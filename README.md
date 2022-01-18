@@ -26,8 +26,8 @@ Code2:  读取视频文件，检测入侵物体
 Code3：调用摄像头实时检测入侵物体
 
 课设结果录频：
-其中Code2中测试结果视频为：videoResult_5.mp4和videoResult_6.mp4   可以直接查看
-其中Code3中测试结果视频为：Result.mp4  可直接查看
+其中Code2中测试结果视频为：运行代码即可查看结果
+其中Code3中测试结果视频为：运行代码即可查看结果
 代码窗口整合部分借鉴地址：
 视频地址：https://www.youtube.com/watch?v=Fchzk1lDt7Q
 代码地址：https://github.com/murtazahassan/OpenCV-Python-Tutorials-for-Beginners/blob/master/Intermediate/RealTime_Shape_Detection_Contours.py
